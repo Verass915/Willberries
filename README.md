@@ -5,4 +5,4 @@
 - JavaScript
 ### Библиотек:
 -Bootstrap
-- Swiper js
+-Swiper js
