@@ -3,6 +3,6 @@
 - Html
 - Css
 - JavaScript
-###Библиотек:
+### Библиотек:
 -Bootstrap
 - Swiper js
