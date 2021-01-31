@@ -4,5 +4,5 @@
 - Css
 - JavaScript
 ### Библиотек:
--Bootstrap
--Swiper js
+- Bootstrap
+- Swiper js
